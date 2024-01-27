@@ -22,10 +22,9 @@ Each `.ipynb` file in the repository is named according to the website it is des
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook
-- Web scraping libraries such as BeautifulSoup, Scrapy, or Selenium (depending on the script requirements)
-- Requests library for HTTP requests
+- Web scraping library: Selenium
 
 ## Installation
 
@@ -33,7 +32,7 @@ To use these scripts, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/eyadshabrawy/web-scraping-repository.git
+   git clone https://github.com/eyadshabrawy/web-scraping.git
    ```
 
 2. **Navigate to the Repository Folder**
